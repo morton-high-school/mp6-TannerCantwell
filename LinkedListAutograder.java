@@ -121,8 +121,6 @@ public class LinkedListAutograder{
     a2.append(b12);
     a2.append(b22);
 
-
-
     boolean t1 = LinkedListUtil.length(a1)==0;
     boolean t2 = LinkedListUtil.length(a2)==7;
     boolean t3 = LinkedListUtil.search(a2, 3)==2;
